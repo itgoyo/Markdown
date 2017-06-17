@@ -23,3 +23,16 @@
 #### 如果不是自己个人空间的图，则无效
 
 ![](http://p1.bqimg.com/567571/6e8f6a49e4e6ee51.png?imageMogr2/thumbnail/300x)
+
+
+
+# 图片居中样式
+
+```
+<div align=center>
+![]()
+</div>
+```
+<div align=center>
+![](http://omvbl46i3.bkt.clouddn.com/17-5-5/79745493-file_1493956320262_5fe6.png?imageMogr2/thumbnail/300)
+</div>
