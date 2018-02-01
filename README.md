@@ -18,6 +18,20 @@
 
 ![](http://omvbl46i3.bkt.clouddn.com/17-5-5/79745493-file_1493956320262_5fe6.png?imageMogr2/thumbnail/300)
 
+又或者
+
+
+<a href="https://raw.githubusercontent.com/mgechev/ngrev/master/assets/2.png" target="_blank"><img src="https://raw.githubusercontent.com/mgechev/ngrev/master/assets/1.png" alt="Component template"/></a>
+
+<a href="https://raw.githubusercontent.com/mgechev/ngrev/master/assets/2.png" target="_blank"><img src="https://raw.githubusercontent.com/mgechev/ngrev/master/assets/2.png" alt="Module Dependencies"></a>
+
+
+```js
+<a href="https://raw.githubusercontent.com/mgechev/ngrev/master/assets/2.png" target="_blank"><img src="https://raw.githubusercontent.com/mgechev/ngrev/master/assets/1.png" alt="Component template"/></a>
+
+<a href="https://raw.githubusercontent.com/mgechev/ngrev/master/assets/2.png" target="_blank"><img src="https://raw.githubusercontent.com/mgechev/ngrev/master/assets/2.png" alt="Module Dependencies"></a>
+
+```
 -------
 
 #### 如果不是自己个人空间的图，则无效
